@@ -1,6 +1,6 @@
 Name:		texlive-longfigure
 Version:	34302
-Release:	1
+Release:	2
 Summary:	Provides a figure-like environment that break over pages
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/longfigure
