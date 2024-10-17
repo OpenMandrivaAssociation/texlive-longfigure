@@ -3,7 +3,7 @@ Version:	34302
 Release:	2
 Summary:	Provides a figure-like environment that break over pages
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/longfigure
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/longfigure
 License:	LPPL1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/longfigure.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/longfigure.doc.r%{version}.tar.xz
